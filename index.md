@@ -21,17 +21,17 @@ __M. Sc. Mathematics__ (Freie Universität, Berlin)
 `2016-2020`
 __B. Sc. Mathematics__ (Freie Universität, Berlin)
 
-- Thesis: "Big Data hat kleinen Rang" (Analysis of low-rank representations of matrices in the "big data" context)
+- - Thesis: "Big Data hat kleinen Rang" (Analysis of low-rank representations of matrices in the "big data" context)
 
 `2016`
 __Abitur__ (Werner-von-Siemens Gymnasium, Berlin)
 
-- Focus: Physics, Mathematics
+- - Focus: Physics, Mathematics
 
 `2013-2014`
 __Study Abroad__ (Anoka High School, Anoka, Minnesota)
 
-- Awarded three consecutive "Business Education Student of the Month" honors
+- - Awarded three consecutive "Business Education Student of the Month" honors
 
 ## Occupation
 
@@ -56,9 +56,8 @@ __Werkstudent: Market Analysis__ (Inopha GmbH)
 ## Projects
 
 __Pico Darkroom Timer__
-- digital darkroom measurement device and timer
-- powered by a Raspberry Pi Pico micro controller, a 2.8" SPI LCD (320x240), an encoder knob, 5 buttons and a beeper
-- The current software can work as a digital timer or a measurement device that measures a shadow point and a light point, calculates the tonal range, recommends a (multigrade) paper grade and calculates resulting exposure time. The resulting time can be corrected in steps of 1/3 f.
+- - digital darkroom measurement device and timer powered by a Raspberry Pi Pico micro controller, a 2.8" SPI LCD (320x240), an encoder knob, 5 buttons and a beeper
+- - The current software can work as a digital timer or a measurement device that measures a shadow point and a light point, calculates the tonal range, recommends a (multigrade) paper grade and calculates resulting exposure time. The resulting time can be corrected in steps of 1/3 f.
 
 <!-- ### Footer
 
