@@ -1,91 +1,59 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Christoph M. Jankowsky's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
+# Christoph Marcus Jankowsky
+M. Sc. Mathematics
 
 ## Currently
 
-Standing on the shoulders of giants
+In the process of finifhing my Masters degree in Mathematics at Freie Universität Berlin.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Numerical analysis of stochastic and deterministic partial differential equations.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020-2024`
+__M. Sc. Mathematics__ (Freie Universität, Berlin)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2016-2020`
+__B. Sc. Mathematics__ (Freie Universität, Berlin)
 
-- Sizar
+- Thesis: "Big Data hat kleinen Rang" (Analysis of low-rank representations of matrices in the "big data" context)
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2016`
+__Abitur__ (Werner-von-Siemens Gymnasium, Berlin)
 
-- Fellow
+- Focus: Physics, Mathematics
 
+`2013-2014`
+__Study Abroad__ (Anoka High School, Anoka, Minnesota)
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+- Awarded three consecutive "Business Education Student of the Month" honors
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2019-2024`
+__Werkstudent: Quality Assurance__ (WeltWeitBau GmbH)
 
-- Warden
-- Minted coins
+- Software testing with a focus on Building Information Modeling (BIM) features within a comprehensive project management platform.
+- Developing tailored documentation and tutorial materials for diverse clients in the public sector.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2019`
+__Werkstudent__ (3BOTS 3D Engineering GmbH)
 
+- Soldered logic boards and contributed to the assembly of industrial-grade Fused Deposition Modeling (FDM) 3D printers.
+
+`2016-2018`
+__Werkstudent: Market Analysis__ (Inopha GmbH)
+
+- Leveraged data-driven insights to develop pricing strategies that ensured competitive advantage and sustainable profitability.
+- Committed to maximizing the value of pharmaceutical products while maintaining competitive pricing to benefit both the distributor and customers.
+- Specialized in analyzing pricing data from European pharmaceutical distributors, with a strategic focus on maximizing resale value.
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: October 2023 -->
