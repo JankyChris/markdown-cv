@@ -53,6 +53,12 @@ __Werkstudent: Market Analysis__ (Inopha GmbH)
 - Committed to maximizing the value of pharmaceutical products while maintaining competitive pricing to benefit both the distributor and customers.
 - Specialized in analyzing pricing data from European pharmaceutical distributors, with a strategic focus on maximizing resale value.
 
+## Projects
+
+__Pico Darkroom Timer__
+- digital darkroom measurement device and timer
+- powered by a Raspberry Pi Pico micro controller, a 2.8" SPI LCD (320x240), an encoder knob, 5 buttons and a beeper
+- The current software can work as a digital timer or a measurement device that measures a shadow point and a light point, calculates the tonal range, recommends a (multigrade) paper grade and calculates resulting exposure time. The resulting time can be corrected in steps of 1/3 f.
 
 <!-- ### Footer
 
