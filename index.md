@@ -38,20 +38,20 @@ __Study Abroad__ (Anoka High School, Anoka, Minnesota)
 `2019-2024`
 __Werkstudent: Quality Assurance__ (WeltWeitBau GmbH)
 
-- Software testing with a focus on Building Information Modeling (BIM) features within a comprehensive project management platform.
-- Developing tailored documentation and tutorial materials for diverse clients in the public sector.
+- - Software testing with a focus on Building Information Modeling (BIM) features within a comprehensive project management platform.
+- - Developing tailored documentation and tutorial materials for diverse clients in the public sector.
 
 `2019`
 __Werkstudent__ (3BOTS 3D Engineering GmbH)
 
-- Soldered logic boards and contributed to the assembly of industrial-grade Fused Deposition Modeling (FDM) 3D printers.
+- - Soldered logic boards and contributed to the assembly of industrial-grade Fused Deposition Modeling (FDM) 3D printers.
 
 `2016-2018`
 __Werkstudent: Market Analysis__ (Inopha GmbH)
 
-- Leveraged data-driven insights to develop pricing strategies that ensured competitive advantage and sustainable profitability.
-- Committed to maximizing the value of pharmaceutical products while maintaining competitive pricing to benefit both the distributor and customers.
-- Specialized in analyzing pricing data from European pharmaceutical distributors, with a strategic focus on maximizing resale value.
+- - Leveraged data-driven insights to develop pricing strategies that ensured competitive advantage and sustainable profitability.
+- - Committed to maximizing the value of pharmaceutical products while maintaining competitive pricing to benefit both the distributor and customers.
+- - Specialized in analyzing pricing data from European pharmaceutical distributors, with a strategic focus on maximizing resale value.
 
 ## Projects
 
